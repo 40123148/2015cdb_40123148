@@ -178,6 +178,7 @@ class Hello(object):
     <!DOCTYPE html> 
     <html>
     <head>
+
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
     <!-- 載入 brython.js -->
     <script type="text/javascript" src="/static/Brython3.1.1-20150328-091302/brython.js"></script>
@@ -723,6 +724,7 @@ class Hello(object):
     <!DOCTYPE html> 
     <html>
     <head>
+    <a href='/index'>返回</a>
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
     <!-- 載入 brython.js -->
     <script type="text/javascript" src="/static/Brython3.1.1-20150328-091302/brython.js"></script>
